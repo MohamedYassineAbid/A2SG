@@ -1,5 +1,13 @@
 {
-    pages:[
+    "pages":[
+        {
+            "title":"Template",
+            "link":false,
+            "path":"",
+            "content":"./Template.html",
+            "template":true,
+            "index":0
+        },
         {
             "title":"Home",
             "link":false,
