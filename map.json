@@ -1,0 +1,21 @@
+{
+    pages:[
+        {
+            "title":"Home",
+            "link":false,
+            "path":"./index.html",
+            "content":"./content/index.txt",
+            "template":false,
+            "index":1
+        },
+        {
+            "title":"About us",
+            "link":false,
+            "path":"./index.html",
+            "content":"./content/about.txt",
+            "template":false,
+            "index":2
+        }
+
+    ]
+}
