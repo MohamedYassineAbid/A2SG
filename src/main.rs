@@ -35,4 +35,19 @@ fn main(){
 
     }
     println!("{template_str:?}");
+    let mut menu_items:Vec<String>  = Vec::new();
+    let mut items_count : i32= 0;
+    for each in 0..page_obj.pages.len()
+    {
+        let page_details = &page_obj.pages[each];
+        let menu_i = &page_details.index;
+        if menu_i > &0 {
+            items_count += 1;
+
+        }
+
+    }
+    
+
+
 }
